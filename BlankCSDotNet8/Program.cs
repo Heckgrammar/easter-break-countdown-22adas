@@ -13,11 +13,11 @@
             while (true)
             {
                 DateTime current2 = DateTime.Now;
-                Console.WriteLine(current2);
+                Console.WriteLine(difference);
                 Thread.Sleep(1000);
             }
 
-            
+
         }
     }
 }
